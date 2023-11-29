@@ -83,7 +83,7 @@ The functions of the math.h library must be implemented (only those directly des
 - The library code must be located in the src folder on the develop branch
 - Do not use outdated and legacy language constructions and library functions. Pay attention to the legacy and obsolete marks in the official documentation on the language and the libraries used. Use the POSIX.1-2017 standard.
 - When writing code it is necessary to follow the Google style
-- Make it as a static library (with the s21_math.h header file)
+- Make it as a static library named *s21_math.a* (with the s21_math.h header file)
 - The library must be developed according to the principles of structured programming; code duplication must be avoided
 - Use prefix s21_ before each function
 - Prepare full coverage of library functions code with unit-tests with the Check library  
