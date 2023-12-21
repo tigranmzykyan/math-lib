@@ -18,10 +18,10 @@ The russian version of the task can be found in the repository.
 
 ![s21_math](misc/eng/s21_math.png)
 
-Planet Earth, USA, New York State, 1956.
+Planet Earth, 1956.
 
-I love English breakfast: crispy slice of bread and beans, juicy sausages with scrambled eggs, and The New York Times. It would have been an ordinary spring morning if I hadn't stumbled upon a little column in the newspaper written by a Stanford University professor, that caught my attention. William Shockley, who is famous in small circles of the physical science community, the inventor of the transistor, had posted a job opening in a laboratory for mass production of the latest transistors and dinistors.
-Without thinking long, I called the number mentioned in the paper:
+I usually eat crispy toast and juicy sausages with scrambled eggs for breakfast and read news in the morning. It would have been an ordinary spring morning if I hadn't stumbled upon a little column in the newspaper written by a Stanford University professor, that caught my attention. William Shockley, famous in small circles of the physics community as the inventor of the transistor, had advertised a job opening in a laboratory for the mass production of the latest transistors and dinistors.
+Without thinking, I called the number listed in the ad:
 
 *- Good evening, William, I'm calling about the vacancy you left in the newspaper, do you have a minute?*
 
