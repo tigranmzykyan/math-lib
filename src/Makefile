@@ -38,6 +38,7 @@ gcov_report: s21_math.a
 	genhtml $(REP_DIR)/report.info -o $(REP_DIR)
 	mkdir -p $(GCD_DIR)
 	mv *.gcda *.gcno $(GCD_DIR)
+	open report_html/index.html
 
 rebuild: clean all
 
