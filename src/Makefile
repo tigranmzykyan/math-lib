@@ -38,7 +38,6 @@ gcov_report: s21_math.a
 	genhtml $(REP_DIR)/report.info -o $(REP_DIR)
 	mkdir -p $(GCD_DIR)
 	mv *.gcda *.gcno $(GCD_DIR)
-	open report_html/index.html
 
 rebuild: clean all
 
@@ -47,5 +46,6 @@ $(OBJ_DIR):
 
 clean:
 	rm -rf $(GCD_DIR) $(REP_DIR) *.info s21_math_test s21_math.a $(OBJ_DIR)
+
 
 #.PHONY: all test gcov_report rebuild clean

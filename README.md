@@ -27,21 +27,31 @@
 ## Эксплуатация
 
 #### Формирование статической библиотеки, проведение unit-тестов, формирование отчета gcov
-```
-make all
+```shell
+cd src && make all
 ```
 
 #### Формирование статической библиотеки
-```
-make s21_math
+```shell
+cd src && make s21_math
 ```
 
 #### Проведение unit-тестов
-```
-make test
+```shell
+cd src && make test
 ```
 
 #### Формирование отчета gcov
+```shell
+cd src && make gcov_report
 ```
-make gcov_report
+
+#### Открытие отчета  gcov
+```shell
+cd src/report_html && open index.html
+```
+
+#### Удаление всех созданных файлов
+```shell
+cd src && make clean
 ```
